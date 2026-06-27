@@ -1,0 +1,382 @@
+{
+  "id": "sun-manichaeistic",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@manichaeistic Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_50f50e1e4dce",
+    "display_name": "manichaeistic",
+    "user_id": "@manichaeistic",
+    "description": "Community Archive-derived proof-of-search sun for @manichaeistic.",
+    "document_count": 1927,
+    "word_count": 37036,
+    "active_days": 742,
+    "emissions": [
+      "Things",
+      "Don",
+      "Only",
+      "Time",
+      "Self",
+      "Need"
+    ],
+    "generated_at": "2026-06-27T16:35:45.021076+00:00",
+    "color": "#f59e0b",
+    "mass": 10.52
+  },
+  "planets": [
+    {
+      "id": "planet_8c4f0544467f",
+      "name": "Things",
+      "summary": "Archive cluster around things: 1628 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "things",
+        "life",
+        "think",
+        "exgenesis",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0de949b04794",
+          "title": "Things receipt from 2022-12-16",
+          "excerpt": "@0xgaut basically this https://t.co/TzBCyj9Voh",
+          "source_document_id": "1603810803895140352",
+          "timestamp": "2022-12-16T17:54:27+00:00",
+          "url": "https://x.com/manichaeistic/status/1603810803895140352",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, life, think, exgenesis."
+        },
+        {
+          "id": "art_42c659411301",
+          "title": "Things receipt from 2023-01-18",
+          "excerpt": "@coldhealing the depression factor in these videos increases with the interest rates",
+          "source_document_id": "1615714267117887492",
+          "timestamp": "2023-01-18T14:14:34+00:00",
+          "url": "https://x.com/manichaeistic/status/1615714267117887492",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, life, think, exgenesis."
+        },
+        {
+          "id": "art_7e6e60360f70",
+          "title": "Things receipt from 2022-04-16",
+          "excerpt": "@proetrie the best tweets are rorschach tests",
+          "source_document_id": "1515394686978084864",
+          "timestamp": "2022-04-16T18:20:22+00:00",
+          "url": "https://x.com/manichaeistic/status/1515394686978084864",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, life, think, exgenesis."
+        },
+        {
+          "id": "art_6a1589c283f8",
+          "title": "Things receipt from 2022-02-23",
+          "excerpt": "\"Perhaps the fundamental lesson of this experiment was that the vast majority of my internet use simply serves to delay the rest of my life. It’s a way of momentarily escaping the responsibility of using my life intentionally — a ripcord I apparently want to pull constantly. \"",
+          "source_document_id": "1496565417044852739",
+          "timestamp": "2022-02-23T19:19:34+00:00",
+          "url": "https://x.com/manichaeistic/status/1496565417044852739",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, life, think, exgenesis."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7dbe7dba73f9",
+      "proof_score": 1,
+      "mass": 30.737,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_8b0293304afe",
+      "name": "Don",
+      "summary": "Archive cluster around don: 91 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "need",
+        "want",
+        "know",
+        "understand"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a5b1cbfd6686",
+          "title": "Don receipt from 2022-03-30",
+          "excerpt": "@growing_daniel there's only one woman, where all women emanate from, the woman-consciousness\n\n(top 10 secrets: they don't want you to know)",
+          "source_document_id": "1509239176952176640",
+          "timestamp": "2022-03-30T18:40:34+00:00",
+          "url": "https://x.com/manichaeistic/status/1509239176952176640",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, want, know."
+        },
+        {
+          "id": "art_7efc2dc6827d",
+          "title": "Don receipt from 2022-05-21",
+          "excerpt": "@growing_daniel don't fall for big Sex propaganda",
+          "source_document_id": "1528109996390723584",
+          "timestamp": "2022-05-21T20:26:28+00:00",
+          "url": "https://x.com/manichaeistic/status/1528109996390723584",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, want, know."
+        },
+        {
+          "id": "art_0c0337d9430c",
+          "title": "Don receipt from 2022-03-31",
+          "excerpt": "time is money? no. each second in your life is non-fungible. you quite literally don't exist outside your experience of time\n\ngo trade all your time for money, and then find yourself lamenting not being able to buy more time",
+          "source_document_id": "1509624208556445699",
+          "timestamp": "2022-03-31T20:10:33+00:00",
+          "url": "https://x.com/manichaeistic/status/1509624208556445699",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, want, know."
+        },
+        {
+          "id": "art_0e33919df485",
+          "title": "Don receipt from 2022-04-24",
+          "excerpt": "there's this constant joke of not being an adult in popular media. what's up with this? there's no real adult™ test, you don't become an adult when you do \"serious business\" or something\n\nthe moment you become an adult is when you start treating yourself like a child",
+          "source_document_id": "1518274153127763971",
+          "timestamp": "2022-04-24T17:02:20+00:00",
+          "url": "https://x.com/manichaeistic/status/1518274153127763971",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, want, know."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_365f885318c4",
+      "proof_score": 0.802,
+      "mass": 23.717,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_9dae4f43cb7f",
+      "name": "Only",
+      "summary": "Archive cluster around only: 77 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "only",
+        "world",
+        "want",
+        "come",
+        "thing"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c504c6013439",
+          "title": "Only receipt from 2022-01-23",
+          "excerpt": "@michaelcurzi you're the most consistent almost funny poster. like a little feather trying to tickle me, but only softly caresses my funny spot.",
+          "source_document_id": "1485332735153651718",
+          "timestamp": "2022-01-23T19:24:54+00:00",
+          "url": "https://x.com/manichaeistic/status/1485332735153651718",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, world, want, come."
+        },
+        {
+          "id": "art_2b63737ecfe3",
+          "title": "Only receipt from 2023-01-27",
+          "excerpt": "@growing_daniel lexoids be like \"he accepts criticism and wants to debate and talk, this is the only way we can improve, and after all we are only humans and acceptance and love and is all that matters\"\n\nhow lex really reacts to anything remotely critical:",
+          "source_document_id": "1618936662117203970",
+          "timestamp": "2023-01-27T11:39:13+00:00",
+          "url": "https://x.com/manichaeistic/status/1618936662117203970",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, world, want, come."
+        },
+        {
+          "id": "art_33e5d745a464",
+          "title": "Only receipt from 2022-05-24",
+          "excerpt": "\"As a tourist, the country becomes a zoo, the people completely dehumanized, their only worth seemingly reduced to an experience. The life of this man was more entertainment than reality.\"\n\nsharing something i wrote 2 years ago but never published https://t.co/z3lR7IdSuQ",
+          "source_document_id": "1529216852953636866",
+          "timestamp": "2022-05-24T21:44:43+00:00",
+          "url": "https://x.com/manichaeistic/status/1529216852953636866",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, world, want, come."
+        },
+        {
+          "id": "art_c732051f8032",
+          "title": "Only receipt from 2022-03-27",
+          "excerpt": "@varunramg in the old days, it only took 30 goats to get a hoe, now with inflation, it takes a closet of Balenciaga drip",
+          "source_document_id": "1508188957078700057",
+          "timestamp": "2022-03-27T21:07:22+00:00",
+          "url": "https://x.com/manichaeistic/status/1508188957078700057",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, world, want, come."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c8548fa77722",
+      "proof_score": 0.786,
+      "mass": 23.323,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_36f2f78f6830",
+      "name": "Time",
+      "summary": "Archive cluster around time: 55 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "life",
+        "most",
+        "want",
+        "experience"
+      ],
+      "artifacts": [
+        {
+          "id": "art_974f9d0cef91",
+          "title": "Time receipt from 2022-03-30",
+          "excerpt": "@meekaale it's a weird feeling when you realize you're just circling through apps waiting for something to fill in your time\n\nhttps://t.co/rFW6uvxb9U",
+          "source_document_id": "1509151825596928007",
+          "timestamp": "2022-03-30T12:53:28+00:00",
+          "url": "https://x.com/manichaeistic/status/1509151825596928007",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, most, want."
+        },
+        {
+          "id": "art_046c60a5a026",
+          "title": "Time receipt from 2022-10-19",
+          "excerpt": "@exGenesis using ky as a measure of time is criminal",
+          "source_document_id": "1582746497405231104",
+          "timestamp": "2022-10-19T14:52:25+00:00",
+          "url": "https://x.com/manichaeistic/status/1582746497405231104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, most, want."
+        },
+        {
+          "id": "art_bdb92265fadb",
+          "title": "Time receipt from 2020-12-08",
+          "excerpt": "@visakanv it really depends on what your problem is. the most common posture issue is anterior pelvic tilt  + rolled shoulders. People usually try to fix the second problem by \"straightening their back\" which makes their APT worse. you should fix both at the same time. https://t.co/tncS0On8MK",
+          "source_document_id": "1336234677842145280",
+          "timestamp": "2020-12-08T09:02:27+00:00",
+          "url": "https://x.com/manichaeistic/status/1336234677842145280",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, most, want."
+        },
+        {
+          "id": "art_6012480029e1",
+          "title": "Time receipt from 2022-03-31",
+          "excerpt": "time and life are experienced as mostly the same -&gt; notion of labor paid by the hour starts &amp; the day is divided in equal parts -&gt; time becomes abstracted as resource that exists outside you -&gt; become obsessed with taming time for maximum profit",
+          "source_document_id": "1509632481674285064",
+          "timestamp": "2022-03-31T20:43:25+00:00",
+          "url": "https://x.com/manichaeistic/status/1509632481674285064",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, most, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_cb7b625759bb",
+      "proof_score": 0.753,
+      "mass": 21.964,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_e2d60aa885ae",
+      "name": "Self",
+      "summary": "Archive cluster around self: 41 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "self",
+        "society",
+        "think",
+        "too",
+        "improvement"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2c5695fa1e8a",
+          "title": "Self receipt from 2022-05-07",
+          "excerpt": "recently realized this too\n\nconstant self-criticism/deprecation is not humility or \"being real\" — it's narcissistic\n\nit doesn't come from not taking urself too seriously, it comes precisely from taking yourself too seriously, from thinking you're the center of everything https://t.co/mcoLPPfuN6",
+          "source_document_id": "1522994798247829504",
+          "timestamp": "2022-05-07T17:40:30+00:00",
+          "url": "https://x.com/manichaeistic/status/1522994798247829504",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, society, think, too."
+        },
+        {
+          "id": "art_43727d323b50",
+          "title": "Self receipt from 2023-01-16",
+          "excerpt": "@TylerAlterman similar thing with stoicism becoming incredibly popular in the self-improvement niche\n\nhttps://t.co/5XdfqiBgMW",
+          "source_document_id": "1614954251968516103",
+          "timestamp": "2023-01-16T11:54:32+00:00",
+          "url": "https://x.com/manichaeistic/status/1614954251968516103",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, society, think, too."
+        },
+        {
+          "id": "art_acf8ae76c3e3",
+          "title": "Self receipt from 2022-04-21",
+          "excerpt": "check how you feel in a tight suit vs in your pajamas; check how you feel after and before a shower, brushing your teeth etc; check how feel after a walk vs before;\n\nyou cannot rationalize your self into these states, the material is infrastructure for how you cohere in the world",
+          "source_document_id": "1517156125736534016",
+          "timestamp": "2022-04-21T14:59:42+00:00",
+          "url": "https://x.com/manichaeistic/status/1517156125736534016",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, society, think, too."
+        },
+        {
+          "id": "art_b3c4a77683de",
+          "title": "Self receipt from 2023-02-12",
+          "excerpt": "if you look at lofi mixes comments you really see people using it as self-soothing mechanism, specially to relieve school related anxieties, which saddens me, given the \"fake\" nature of homework",
+          "source_document_id": "1624895239532998656",
+          "timestamp": "2023-02-12T22:16:28+00:00",
+          "url": "https://x.com/manichaeistic/status/1624895239532998656",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, society, think, too."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3c3bd09ca9d1",
+      "proof_score": 0.724,
+      "mass": 21.194,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_e6f86ab28868",
+      "name": "Need",
+      "summary": "Archive cluster around need: 35 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "need",
+        "something",
+        "before",
+        "every",
+        "new"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3a7503f2b5f7",
+          "title": "Need receipt from 2022-06-03",
+          "excerpt": "you need to be hieroglyphmaxxing. you need to be using emojis, gifs, twitch emotes; you need to draw every though; you need to talking in music notes. you need to abolish \"signifiers\" - no such thing, an affront to nature.  the signifier is  the signified",
+          "source_document_id": "1532677395941138433",
+          "timestamp": "2022-06-03T10:55:41+00:00",
+          "url": "https://x.com/manichaeistic/status/1532677395941138433",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, something, before, every."
+        },
+        {
+          "id": "art_487b5e7fbe2a",
+          "title": "Need receipt from 2022-02-19",
+          "excerpt": "we need pussy socialism. we need state mandated relationships. we need some pussy welfare. the pussy monopoly has to be regulated. these inequalties can not go on !!1",
+          "source_document_id": "1495083322229370881",
+          "timestamp": "2022-02-19T17:10:15+00:00",
+          "url": "https://x.com/manichaeistic/status/1495083322229370881",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, something, before, every."
+        },
+        {
+          "id": "art_7235d913fad8",
+          "title": "Need receipt from 2022-04-30",
+          "excerpt": "\"excuse me, but that word does not exist in the dictionary!\" and? does a new word need to get approved by the dictionary? how you think words are created? you're the patient zero of this new word — now, go spread it",
+          "source_document_id": "1520515850226311171",
+          "timestamp": "2022-04-30T21:30:03+00:00",
+          "url": "https://x.com/manichaeistic/status/1520515850226311171",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, something, before, every."
+        },
+        {
+          "id": "art_1706437c42d2",
+          "title": "Need receipt from 2025-08-14",
+          "excerpt": "@forgebitz @GergelyOrosz the most cynical way of looking at it is: the fact that if with AGI it will be useless, it means you need to urgently get a liquidity event before it happens",
+          "source_document_id": "1956100206857957737",
+          "timestamp": "2025-08-14T21:06:46+00:00",
+          "url": "https://x.com/manichaeistic/status/1956100206857957737",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, something, before, every."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ad9daf7525db",
+      "proof_score": 0.708,
+      "mass": 21.02,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
